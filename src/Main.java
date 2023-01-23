@@ -8,9 +8,9 @@ public class Main {
         // Calculadora
         System.out.println("Exercício calculadora");
         Calculadora.soma(3, 6);
-        Calculadora.subtracao(9, 1.8);
+        Calculadora.subtracao(9, 8);
         Calculadora.multiplicacao(7, 8);
-        Calculadora.divisao(5, 2.5);
+        Calculadora.divisao(5, 5);
 
         // Mensagem
         System.out.println("Exercício mensagem");
